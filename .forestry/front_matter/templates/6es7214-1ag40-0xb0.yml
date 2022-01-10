@@ -1,4 +1,10 @@
 ---
 label: 6ES7214-1AG40-0XB0
 hide_body: false
-fields: []
+fields:
+- name: 6es7214-1ag40-0xb0
+  type: file
+  config:
+    maxSize: 64
+  label: 6ES7214-1AG40-0XB0
+  description: 6ES7214-1AG40-0XB0
