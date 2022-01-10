@@ -8,3 +8,5 @@ fields:
     maxSize: 64
   label: 6ES7214-1AG40-0XB0
   description: 6ES7214-1AG40-0XB0
+pages:
+- content/6ES7214-1AG40-0XB0.md
